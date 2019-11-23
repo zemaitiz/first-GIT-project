@@ -1,0 +1,3 @@
+Tomas,1000,26,male
+Dovile,750,25,female
+Jonas,1100,24,male
