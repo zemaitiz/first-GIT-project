@@ -1,0 +1,11 @@
+2020-02-22 10:47:51 INFO  ToJsonExample:22 - {"name":"George","age":30,"position":["CTO","Founder","Director"],"skills":["Java","Kotlin","Python","Js"],"salary":{}}
+2020-02-22 10:47:51 ERROR ToJsonExample:28 - File not found!
+2020-02-22 11:21:45 INFO  FilterAndMapExample:20 - Andrew
+2020-02-22 11:21:45 INFO  FilterAndMapExample:26 - [6, 7, 7]
+2020-02-22 11:21:45 INFO  FilterAndMapExample:31 - 6.666666666666667
+2020-02-22 12:12:09 INFO  First:39 - Information was successfully written to file.
+2020-02-22 12:12:32 INFO  First:39 - Information was successfully written to file.
+2020-02-23 11:54:55 INFO  ThirdMain:44 - Duomenys sekmingai nuskaityti nuo failo ;D
+2020-02-23 11:54:55 INFO  ThirdMain:44 - Duomenys sekmingai nuskaityti nuo failo ;D
+2020-02-23 11:57:53 INFO  ThirdMain:44 - Duomenys sekmingai nuskaityti nuo failo ;D
+2020-02-23 11:57:53 INFO  ThirdMain:44 - Duomenys sekmingai nuskaityti nuo failo ;D

@@ -1,4 +1,0 @@
-Trikampio tipas: Bukas, Trikampio perimetras: 0;
-Trikampio tipas: Bukas, Trikampio perimetras: 0;
-Trikampio tipas: Lygiakrastis, Trikampio perimetras: 0;
-Trikampio tipas: Lygiasonis, Trikampio perimetras: 0;

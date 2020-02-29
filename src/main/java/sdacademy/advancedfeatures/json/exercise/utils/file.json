@@ -1,0 +1,26 @@
+{
+  "persons": [
+    {
+      "name": "Tomas",
+      "surname": "Vestartas",
+      "phone": [
+        862971212,
+        867610977
+      ]
+    },
+    {
+      "name": "Dovile",
+      "surname": "Kaikaryte",
+      "phone": [
+        865337650
+      ]
+    },
+    {
+      "name": "Jonas",
+      "surname": "Gadeikis",
+      "phone": [
+        123456
+      ]
+    }
+  ]
+}
