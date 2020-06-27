@@ -1,0 +1,154 @@
+2020-01-19 12:40:53 ERROR Main:11 - Dzien dobry
+2020-02-01 09:34:36 INFO  ConcurrencyExample2:14 - Main thread starts
+2020-02-01 09:34:38 INFO  ConcurrencyExample2:17 - Main thread is still running
+2020-02-01 09:34:41 INFO  ConcurrencyExample2:19 - Main thread ends
+2020-02-01 09:38:04 INFO  ConcurrencyExample2:13 - Main thread starts
+2020-02-01 09:38:06 INFO  ConcurrencyExample2:16 - Main thread is still running
+2020-02-01 09:38:09 INFO  ConcurrencyExample2:18 - Main thread ends
+2020-02-01 09:59:46 INFO  ConcurrencyExample3:16 - Main thread starts
+2020-02-01 09:59:48 INFO  ConcurrencyExample3:19 - Main thread is still running
+2020-02-01 09:59:51 INFO  ConcurrencyExample3:21 - Main thread ends
+2020-02-01 15:07:52 INFO  ToJsonExample:25 - {
+  "name": "George",
+  "age": 30,
+  "position": [
+    "CTO",
+    "Founder",
+    "Director"
+  ],
+  "skills": [
+    "Java",
+    "Kotlin",
+    "Python",
+    "Js"
+  ],
+  "salary": {}
+}
+2020-02-01 15:07:52 INFO  ToJsonExample:29 - Information was successfully written to file.
+2020-02-01 15:09:41 INFO  ToJsonExample:23 - {"name":"George","age":30,"position":["CTO","Founder","Director"],"skills":["Java","Kotlin","Python","Js"],"salary":{}}
+2020-02-01 15:09:41 INFO  ToJsonExample:27 - Information was successfully written to file.
+2020-02-01 15:27:29 INFO  FromJsonExample:24 - Data was read successfully
+2020-02-01 15:30:16 INFO  FromJsonExample:24 - Data was read successfully
+2020-02-01 15:30:46 INFO  FromJsonExample:24 - Data was read successfully
+2020-02-01 15:31:09 INFO  FromJsonExample:24 - Data was read successfully
+2020-02-02 09:37:13 INFO  MatchExample:17 - false
+2020-02-02 09:37:13 INFO  MatchExample:21 - true
+2020-02-02 09:56:50 INFO  FindExample:29 - First name: Andrew
+2020-02-02 10:29:14 INFO  ReduceExample:18 - Tom, Brandon, Michael
+2020-02-02 10:29:14 INFO  ReduceExample:24 - 2
+2020-02-02 11:20:40 INFO  ForEachAndSortExample:3880 - Andrew
+2020-02-02 11:20:40 INFO  ForEachAndSortExample:3880 - Brandon
+2020-02-02 11:20:40 INFO  ForEachAndSortExample:3880 - Michael
+2020-02-02 11:20:40 INFO  ForEachAndSortExample:24 - Connor
+2020-02-02 11:20:40 INFO  ForEachAndSortExample:24 - Smith
+2020-02-02 11:54:05 INFO  Excercise1:24 - [Romualdas, Agnė, Elena, Angelė, Laurynas, Karolis, Bronius, Ignė, Meda]
+2020-02-02 11:54:41 INFO  Excercise1:23 - [Romualdas, Agnė, Elena, Angelė, Laurynas, Karolis, Bronius, Ignė, Meda]
+2020-02-02 11:55:51 INFO  Excercise1:24 - [Romualdas, Agnė, Elena, Angelė, Laurynas, Karolis, Bronius, Ignė, Meda]
+2020-02-02 12:03:17 INFO  Excercise1:23 - Agnė
+2020-02-02 12:03:17 INFO  Excercise1:23 - Elena
+2020-02-02 12:03:17 INFO  Excercise1:23 - Ignė
+2020-02-02 12:03:17 INFO  Excercise1:23 - Meda
+2020-02-02 12:05:48 INFO  Excercise1:24 - Elena
+2020-02-02 12:05:48 INFO  Excercise1:24 - Meda
+2020-02-02 12:12:46 INFO  Excercise1:27 - ELENA
+2020-02-02 12:12:46 INFO  Excercise1:27 - MEDA
+2020-02-02 12:13:48 INFO  Excercise1:27 - ELENA
+2020-02-02 12:13:48 INFO  Excercise1:27 - MEDA
+2020-02-02 12:18:17 INFO  Excercise1:26 - Agnė
+2020-02-02 12:18:17 INFO  Excercise1:26 - Elena
+2020-02-02 12:18:17 INFO  Excercise1:26 - Ignė
+2020-02-02 12:18:17 INFO  Excercise1:26 - Meda
+2020-02-02 12:21:32 INFO  Excercise1:27 - ELENA
+2020-02-02 12:21:32 INFO  Excercise1:27 - MEDA
+2020-02-02 12:37:30 INFO  ForEachAndSortExample:3880 - Michael
+2020-02-02 12:37:30 INFO  ForEachAndSortExample:3880 - Andrew
+2020-02-02 12:37:30 INFO  ForEachAndSortExample:3880 - Brandon
+2020-02-02 12:37:30 INFO  ForEachAndSortExample:24 - Connor
+2020-02-02 12:37:30 INFO  ForEachAndSortExample:24 - Smith
+2020-02-02 13:38:24 INFO  Excercise1:28 - ELENA
+2020-02-02 13:38:24 INFO  Excercise1:28 - MEDA
+2020-02-02 13:38:52 INFO  Excercise1:28 - ELENA
+2020-02-02 13:38:52 INFO  Excercise1:28 - MEDA
+2020-02-02 13:38:52 INFO  Excercise1:30 - MEDA
+2020-02-02 13:38:52 INFO  Excercise1:30 - ELENA
+2020-02-02 13:39:18 INFO  Excercise1:29 - MEDA
+2020-02-02 13:39:18 INFO  Excercise1:29 - ELENA
+2020-02-02 13:46:01 INFO  Excercise1:27 - ELENA
+2020-02-02 13:46:01 INFO  Excercise1:27 - MEDA
+2020-02-02 13:47:43 INFO  Excercise1:27 - ELENA
+2020-02-02 13:47:43 INFO  Excercise1:27 - MEDA
+2020-02-02 13:48:10 INFO  Excercise1:27 - ELENA
+2020-02-02 13:48:10 INFO  Excercise1:27 - MEDA
+2020-02-02 13:49:36 INFO  Excercise1:28 - ELENA
+2020-02-02 13:49:36 INFO  Excercise1:28 - MEDA
+2020-02-02 13:51:20 INFO  Excercise1:439 - ELENA
+2020-02-02 13:51:20 INFO  Excercise1:439 - MEDA
+2020-02-02 13:53:18 INFO  Excercise1:439 - ELENA
+2020-02-02 13:53:18 INFO  Excercise1:439 - MEDA
+2020-02-02 13:55:11 INFO  Excercise1:439 - ELENA
+2020-02-02 13:55:11 INFO  Excercise1:439 - MEDA
+2020-02-02 13:55:11 INFO  Excercise1:439 - MEDA
+2020-02-02 13:55:42 INFO  Excercise1:439 - ELENA
+2020-02-02 13:55:42 INFO  Excercise1:439 - MEDA
+2020-02-02 13:55:42 INFO  Excercise1:439 - MEDA
+2020-02-02 14:05:42 INFO  ReduceExample:18 - Tom, Brandon, Michael
+2020-02-02 14:05:42 INFO  ReduceExample:24 - 2
+2020-02-02 14:17:12 INFO  Excercise2:24 - RytasLovaDurysAutomobilisKatinas
+2020-02-02 14:18:58 INFO  Excercise2:25 - RytasLovaDurysAutomobilisKatinas
+2020-02-02 14:25:00 INFO  Excercise2:25 - RytasLovaDurysAutomobilisKatinas
+2020-02-02 14:25:00 INFO  Excercise2:31 - [Rytas, Lova, Durys, Automobilis, Katinas]
+2020-02-02 14:27:17 INFO  Excercise2:25 - RytasLovaDurysAutomobilisKatinas
+2020-02-02 14:27:17 INFO  Excercise2:31 - RYTASLOVADURYSAUTOMOBILISKATINAS
+2020-02-02 14:30:55 INFO  Excercise2:25 - RytasLovaDurysAutomobilisKatinas
+2020-02-02 14:30:55 INFO  Excercise2:31 - RYTASLOVADURYSAUTOMOBILISKATINAS
+2020-02-02 14:30:55 INFO  Excercise2:36 - ,Rytas,Lova,Durys,Automobilis,Katinas
+2020-02-02 14:31:52 INFO  Excercise2:25 - RytasLovaDurysAutomobilisKatinas
+2020-02-02 14:31:52 INFO  Excercise2:31 - RYTASLOVADURYSAUTOMOBILISKATINAS
+2020-02-02 14:31:52 INFO  Excercise2:37 - ,Rytas,Lova,Durys,Automobilis,Katinas
+2020-02-02 14:36:01 INFO  Excercise2:25 - RytasLovaDurysAutomobilisKatinas
+2020-02-02 14:36:01 INFO  Excercise2:31 - RYTASLOVADURYSAUTOMOBILISKATINAS
+2020-02-02 14:36:01 INFO  Excercise2:37 - ,Rytas,Lova,Durys,Automobilis,Katinas
+2020-02-02 14:37:11 INFO  Excercise2:25 - RytasLovaDurysAutomobilisKatinas
+2020-02-02 14:37:11 INFO  Excercise2:31 - RYTASLOVADURYSAUTOMOBILISKATINAS
+2020-02-02 14:37:11 INFO  Excercise2:37 - ,Rytas,Lova,Durys,Automobilis,Katinas
+2020-02-02 14:42:23 INFO  Excercise2:25 - RytasLovaDurysAutomobilisKatinas
+2020-02-02 14:42:23 INFO  Excercise2:31 - RYTASLOVADURYSAUTOMOBILISKATINAS
+2020-02-02 14:42:23 INFO  Excercise2:36 - Rytas, Lova, Durys, Automobilis, Katinas
+2020-02-02 14:42:47 INFO  Excercise2:25 - RytasLovaDurysAutomobilisKatinas
+2020-02-02 14:42:47 INFO  Excercise2:31 - RYTASLOVADURYSAUTOMOBILISKATINAS
+2020-02-02 14:42:47 INFO  Excercise2:36 - Rytas,Lova,Durys,Automobilis,Katinas
+2020-02-02 14:44:25 INFO  Excercise2:25 - RytasLovaDurysAutomobilisKatinas
+2020-02-02 14:44:25 INFO  Excercise2:31 - RYTASLOVADURYSAUTOMOBILISKATINAS
+2020-02-02 14:44:25 INFO  Excercise2:36 - Rytas,Lova,Durys,Automobilis,Katinas
+2020-02-02 14:44:25 INFO  Excercise2:40 - [Rytas, Lova, Durys, Automobilis, Katinas]
+2020-02-02 14:45:08 INFO  Excercise2:25 - RytasLovaDurysAutomobilisKatinas
+2020-02-02 14:45:08 INFO  Excercise2:31 - RYTASLOVADURYSAUTOMOBILISKATINAS
+2020-02-02 14:45:08 INFO  Excercise2:36 - Rytas,Lova,Durys,Automobilis,Katinas
+2020-02-02 14:45:08 INFO  Excercise2:40 - [Rytas, Lova, Durys, Automobilis, Katinas]
+2020-02-02 14:45:41 INFO  Excercise2:25 - RytasLovaDurysAutomobilisKatinas
+2020-02-02 14:45:41 INFO  Excercise2:31 - RYTASLOVADURYSAUTOMOBILISKATINAS
+2020-02-02 14:45:41 INFO  Excercise2:36 - Rytas,Lova,Durys,Automobilis,Katinas
+2020-02-02 14:45:41 INFO  Excercise2:40 - java.util.stream.ReferencePipeline$2@6ae40994
+2020-02-02 14:46:59 INFO  Excercise2:25 - RytasLovaDurysAutomobilisKatinas
+2020-02-02 14:46:59 INFO  Excercise2:31 - RYTASLOVADURYSAUTOMOBILISKATINAS
+2020-02-02 14:46:59 INFO  Excercise2:36 - Rytas,Lova,Durys,Automobilis,Katinas
+2020-02-02 14:47:21 INFO  Excercise2:25 - RytasLovaDurysAutomobilisKatinas
+2020-02-02 14:47:21 INFO  Excercise2:31 - RYTASLOVADURYSAUTOMOBILISKATINAS
+2020-02-02 14:47:21 INFO  Excercise2:36 - Rytas,Lova,Durys,Automobilis,Katinas
+2020-02-02 14:47:21 INFO  Excercise2:183 - Lova
+2020-02-02 14:47:21 INFO  Excercise2:183 - Automobilis
+2020-02-02 15:01:19 INFO  Excercise3:17 - 11650
+2020-02-02 15:03:05 INFO  Excercise3:17 - 66
+2020-02-04 00:32:07 INFO  PersonsMain:23 - Data was read successfully.
+2020-02-04 00:32:20 INFO  PersonsMain:23 - Data was read successfully.
+2020-02-04 00:32:33 INFO  PersonsMain:23 - Data was read successfully.
+2020-02-04 00:33:09 INFO  PersonsMain:23 - Data was read successfully.
+2020-02-04 00:33:33 INFO  PersonsMain:23 - Data was read successfully.
+2020-02-04 02:08:39 INFO  PersonsMain:37 - Data was read successfully.
+2020-02-04 02:10:08 INFO  PersonsMain:37 - Data was read successfully.
+2020-02-04 02:18:46 INFO  PersonsMain:34 - Data was read successfully.
+2020-02-04 02:19:03 INFO  PersonsMain:34 - Data was read successfully.
+2020-02-04 02:21:14 INFO  PersonsMain:34 - Data was read successfully.
+2020-02-04 02:24:21 INFO  PersonsMain:34 - Data was read successfully.
+2020-02-04 02:27:05 INFO  PersonsMain:35 - Data was read successfully.
+2020-02-08 15:52:07 INFO  PersonsMain:36 - Data was read successfully.
